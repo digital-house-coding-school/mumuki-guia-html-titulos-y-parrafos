@@ -1,4 +1,8 @@
 ---
 expectations:
-- binding: "*"
+- binding: p
   inspection: DeclaresTag:mark
+- binding: p
+  inspection: DeclaresTag:strong
+- binding: p
+  inspection: DeclaresTag:em
