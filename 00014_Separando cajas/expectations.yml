@@ -7,8 +7,6 @@ expectations:
 - binding: css:header
   inspection: DeclaresStyle:font-size:28px
 - binding: css:header
-  inspection: DeclaresStyle:border-bottom:1px solid red
-- binding: css:header
   inspection: DeclaresStyle:padding-top:5px
 - binding: css:header
   inspection: DeclaresStyle:padding-bottom:5px
@@ -29,8 +27,6 @@ expectations:
 - binding: css:section
   inspection: DeclaresStyle:padding-left:10px
 - binding: css:section
-  inspection: DeclaresStyle:border:2px dashed black
-- binding: css:section
   inspection: DeclaresStyle:border-radius:5px
 - binding: css:section
   inspection: DeclaresStyle:box-sizing:border-box
@@ -38,8 +34,6 @@ expectations:
   inspection: DeclaresStyle:background-color:black
 - binding: css:footer
   inspection: DeclaresStyle:color:white
-- binding: css:footer
-  inspection: DeclaresStyle:border:solid red 1px
 - binding: css:footer
   inspection: DeclaresStyle:padding-top:5px
 - binding: css:footer
