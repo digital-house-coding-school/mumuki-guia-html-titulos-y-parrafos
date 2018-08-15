@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: form
+  inspection: DeclaresTag:label
+- binding: form
+  inspection: DeclaresTag:select
