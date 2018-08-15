@@ -4,6 +4,6 @@ Sin embargo, nos está faltando algo fundamental. El usuario no puede enviar los
 
 Para esto te pedimos que:
 
-> 1. Agregues un botón de enviar con la etiqueta `submit` con atributo y valor `type="submit"` y `value="Enviar"`
+> 1. Agregues una etiqueta `input` con atributo y valor `type="submit"` y `value="Enviar"` para que el usuario disponga de un botón para enviar
 
 > 2. Le agregues a todos los `input` el atributo `name` para que la información sea enviado a resultado.html
