@@ -20,9 +20,3 @@ expectations:
   inspection: DeclaresAttribute:required
 - binding: label
   inspection: DeclaresAttribute:for
-- binding: input
-  inspection: DeclaresAttribute:id
-- binding: input
-  inspection: DeclaresAttribute:name
-- binding: label
-  inspection: DeclaresAttribute:for

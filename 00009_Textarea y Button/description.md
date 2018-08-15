@@ -1,8 +1,8 @@
-Creemos dentro de un formulario un espacio para que el usuario pueda escribir un comentario. Luego le daremos dos botones, uno para que pueda enviarlo y otro para borrarlo.
+Creemos dentro de un formulario un espacio para que el usuario pueda escribir un comentario y también pueda enviarlo como borrarlo.
 
 > Para esto necesitamos que:
 
-> 1. Crees una etiqueta `label` y otra `textarea` para el campo de comentarios. No olvides los atributos `id`, `name` y `for`
+> 1. Crees una etiqueta `textarea`  
 
 > 2. Crees una etiqueta `button` que diga "**Enviar**" con atributo y valor `type="submit"` para que el usuario pueda enviar el comentario  
   
