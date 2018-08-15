@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: form
+  inspection: DeclaresTag:textarea
+- binding: form
+  inspection: DeclaresTag:button
+- binding: button
+  inspection: DeclaresAttribute:type="submit"
