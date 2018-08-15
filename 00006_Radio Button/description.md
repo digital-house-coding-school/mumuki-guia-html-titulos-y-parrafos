@@ -14,5 +14,3 @@ Te pedimos que dentro del formulario:
 
 > 5. Agregar el atributo `value` a cada input para determinar luego qué es lo que eligió el usuario.
 
-No olvides agregar los `<br>` necesarios o agrupar los campos en etiqueta `<p>` para dejarlo prolijo
-
