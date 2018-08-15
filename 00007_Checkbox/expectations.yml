@@ -4,25 +4,9 @@ expectations:
   inspection: DeclaresTag:label
 - binding: form
   inspection: DeclaresTag:input
-- binding: form
-  inspection: DeclaresTag:input
-- binding: form
-  inspection: DeclaresTag:input
-- binding: input
-  inspection: DeclaresAttribute:type="checkbox"
-- binding: input
-  inspection: DeclaresAttribute:type="checkbox"
 - binding: input
   inspection: DeclaresAttribute:type="checkbox"
 - binding: input
   inspection: DeclaresAttribute:name="hobby"
-- binding: input
-  inspection: DeclaresAttribute:name="hobby"
-- binding: input
-  inspection: DeclaresAttribute:name="hobby"
-- binding: input
-  inspection: DeclaresAttribute:value
-- binding: input
-  inspection: DeclaresAttribute:value
 - binding: input
   inspection: DeclaresAttribute:value
