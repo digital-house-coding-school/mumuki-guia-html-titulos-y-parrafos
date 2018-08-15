@@ -1,0 +1,14 @@
+---
+expectations:
+- binding: css:section
+  inspection: DeclaresStyle:overflow:hidden
+- binding: css:article
+  inspection: DeclaresStyle:float:left
+- binding: css:article
+  inspection: DeclaresStyle:width:50%
+- binding: css:article
+  inspection: DeclaresStyle:margin-left:5%
+- binding: css:article
+  inspection: DeclaresStyle:margin-right:5%
+- binding: css:article
+  inspection: DeclaresStyle:box-sizing:border-box
