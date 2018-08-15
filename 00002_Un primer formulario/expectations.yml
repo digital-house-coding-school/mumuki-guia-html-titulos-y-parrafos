@@ -6,3 +6,7 @@ expectations:
   inspection: DeclaresAttribute:method="POST"
 - binding: form
   inspection: DeclaresAttribute:action="resultado.html"
+- binding: input
+  inspection: DeclaresAttribute:type="text"
+- binding: input
+  inspection: DeclaresAttribute:type="password"
