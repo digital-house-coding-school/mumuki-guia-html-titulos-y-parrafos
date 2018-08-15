@@ -1,0 +1,18 @@
+---
+expectations:
+- binding: body
+  inspection: Not:DeclaresTag:div
+- binding: body
+  inspection: Not:DeclaresTag:ol
+- binding: body
+  inspection: Not:DeclaresTag:ul
+- binding: body
+  inspection: Not:DeclaresTag:form
+- binding: body
+  inspection: Not:DeclaresTag:footer
+- binding: body
+  inspection: Not:DeclaresTag:header
+- binding: body
+  inspection: Not:DeclaresTag:section
+- binding: body
+  inspection: Not:DeclaresTag:article
