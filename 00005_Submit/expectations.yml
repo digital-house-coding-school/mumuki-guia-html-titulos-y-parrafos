@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: body
+  inspection: DeclaresTag:form
+- binding: input
+  inspection: DeclaresAttribute:name
+- binding: input
+  inspection: DeclaresAttribute:type="submit"
+- binding: input
+  inspection: DeclaresAttribute:value="Enviar"
