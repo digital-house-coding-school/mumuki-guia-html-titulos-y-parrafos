@@ -1,4 +1,4 @@
-Creemos dentro de un formulario un espacio para que el usuario pueda escribir un comentario y enviarlo.
+Creemos dentro de un formulario un espacio para que el usuario pueda escribir un comentario y también pueda enviarlo como borrarlo.
 
 > Para esto necesitamos que:
 
