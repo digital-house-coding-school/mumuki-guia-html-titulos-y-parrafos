@@ -1,6 +1,6 @@
 ¡Genial!¡Ya sabemos crear un formulario y agregarles campos! 
 
-Ahora te pedimos que crees un formulario con 3 campos para que el usuario pueda:
+Ahora te pedimos que le agregues 3 campos al formulario para que el usuario pueda:
 
 > 1. Ingresar su nombre. Una etiqueta `input` con atributo y valor `type="text"`.
 > 2. Ingresar su correo electrónico. Una etiqueta `input` con atributo y valor `type="email"`.
