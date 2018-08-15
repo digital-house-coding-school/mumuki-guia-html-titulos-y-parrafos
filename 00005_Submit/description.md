@@ -1,6 +1,6 @@
 ¡Ya contamos con un formulario bastante completo!
 
-Sin embargo, nos está faltando algo fundamental. El usuario no puede enviar los datos del formulario :(.
+Sin embargo, nos está faltando algo fundamental. El usuario no puede enviar los datos del formulario :sob:.
 
 Para esto te pedimos que:
 

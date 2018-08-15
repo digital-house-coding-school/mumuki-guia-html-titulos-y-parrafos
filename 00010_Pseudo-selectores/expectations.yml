@@ -1,6 +1,0 @@
----
-expectations:
-- binding: css:p:hover
-  inspection: 'DeclaresStyle:color: green'
-- binding: css:input:focus
-  inspection: 'DeclaresStyle:background-color: yellow'
