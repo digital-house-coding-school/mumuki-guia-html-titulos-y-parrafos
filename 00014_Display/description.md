@@ -11,3 +11,5 @@ Para eso te pedimos que:
 > Le apliques `display:block` a la etiqueta `a`
 
 > Le agregues un `padding` de 10px
+
+Sentite libre de agregarle cualquier regla de css de elemento de bloque.
