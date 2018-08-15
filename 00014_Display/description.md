@@ -4,10 +4,10 @@ Dado el siguiente `<a>`:
 <a href="#"> Clickeame! </a>
 ```
 
-Queremos agregarle un `height` y un `width` pero `<a>` al ser un elemento de línea no entiende propiedades de bloque.
+Queremos agregarle un `padding` pero `<a>` al ser un elemento de línea no entiende propiedades de bloque.
 
 Para eso te pedimos que:
 
 > Le apliques `display:block` a la etiqueta `a`
 
-> Le agregues un **ancho** de 100px y un **alto** de 50px
+> Le agregues un `padding` de 10px
