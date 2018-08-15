@@ -6,5 +6,5 @@
  
 > 1. Una etiqueta `label` para informar al usuario que debe ingresar su Nombre
 
-> 2. Una etiqueta `input` con valor **text** en su atributo `type` para que el usuario pueda ingresar su Nombre
+> 2. Una etiqueta `input` con atributo `type` y valor **text** para que el usuario pueda ingresar su nombre
 
