@@ -4,7 +4,7 @@ Dado el siguiente `<a>`:
 <a href="#"> Clickeame! </a>
 ```
 
-Queremos agregarle un `height` y un `width` pero <a> al ser un elemento de línea no entiende dichas propiedades.
+Queremos agregarle un `height` y un `width` pero `<a>` al ser un elemento de línea no entiende propiedades de bloque.
 
 Para eso te pedimos que:
 
