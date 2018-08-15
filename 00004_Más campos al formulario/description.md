@@ -8,3 +8,4 @@ Ahora te pedimos que le agregues 3 campos al formulario para que el usuario pued
 > 4. Agreguémosle el atributo `required` a todos los campos para validar que el usuario ha completado todos los datos.
 > 5. No olvides agregar el atributo `name` a todos los campos para que la información efectivamente viaje al enviar el formulario
 
+

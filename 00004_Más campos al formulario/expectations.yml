@@ -15,6 +15,6 @@ expectations:
 - binding: input
   inspection: DeclaresAttribute:type="email"
 - binding: input
-  inspection: DeclaresAttribute:input="password"
+  inspection: DeclaresAttribute:type="password"
 - binding: input
   inspection: DeclaresAttribute:required
