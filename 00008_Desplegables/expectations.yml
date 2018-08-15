@@ -4,3 +4,13 @@ expectations:
   inspection: DeclaresTag:label
 - binding: form
   inspection: DeclaresTag:select
+- binding: select
+  inspection: DeclaresAttribute:name
+- binding: select
+  inspection: DeclaresAttribute:id
+- binding: label
+  inspection: DeclaresAttribute:for
+- binding: select
+  inspection: DeclaresTag:option
+- binding: option
+  inspection: DeclaresAttribute:value
