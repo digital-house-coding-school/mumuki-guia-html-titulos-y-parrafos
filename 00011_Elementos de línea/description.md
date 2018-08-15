@@ -1,11 +1,16 @@
-Creá etiquetas que se comportan por naturaleza como **elemento de línea**.
-
-Pueden ser:
+Repasemos algunas etiquetas de línea que ya conocemos:
 
 > `<img>`  
 > `<span>`  
 > `<a>`  
 > `<button>`  
 > `<input>`  
+> `<span>`
 
-Sentite libre de crear cualquier elemento de línea que desees y notá que ocupa sólo el espacio delimitado por su contenido.
+Es hora entonces de modificar el parrafo que aparece en el código.
+
+**¿Cuál es tu tarea?**
+
+**Dentro del parrafo** recubrí una palabra con la etiqueta `<span>` y otra con la etiqueta `<a>` generando un hipervínculo.
+
+En el resultado, deberías ver que el comportamiento del texto no se modifica y no aparecerá ningún salto de línea.
