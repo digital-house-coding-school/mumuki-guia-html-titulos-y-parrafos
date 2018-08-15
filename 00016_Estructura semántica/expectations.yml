@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: body
+  inspection: DeclaresTag:header
+- binding: body
+  inspection: DeclaresTag:section
+- binding: body
+  inspection: DeclaresTag:footer
+- binding: section
+  inspection: DeclaresTag:article
