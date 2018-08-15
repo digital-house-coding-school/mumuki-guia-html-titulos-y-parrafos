@@ -1,0 +1,18 @@
+---
+expectations:
+- binding: form
+  inspection: DeclaresTag:input
+- binding: input
+  inspection: DeclaresAttribute:type="radio"
+- binding: input
+  inspection: DeclaresAttribute:name="mascota"
+- binding: input
+  inspection: DeclaresAttribute:value
+- binding: input
+  inspection: DeclaresAttribute:type="radio"
+- binding: input
+  inspection: DeclaresAttribute:name="mascota"
+- binding: input
+  inspection: DeclaresAttribute:value
+- binding: form
+  inspection: DeclaresTag:label
