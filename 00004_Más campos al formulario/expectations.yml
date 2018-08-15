@@ -3,4 +3,16 @@ expectations:
 - binding: body
   inspection: DeclaresTag:form
 - binding: form
-  inspection: DeclaresAttribute:action
+  inspection: DeclaresAttribute:action="resultado.html"
+- binding: form
+  inspection: DeclaresAttribute:method="POST"
+- binding: form
+  inspection: DeclaresTag:label
+- binding: form
+  inspection: DeclaresTag:input
+- binding: input
+  inspection: DeclaresAttribute:type="text"
+- binding: input
+  inspection: DeclaresAttribute:type="email"
+- binding: input
+  inspection: DeclaresAttribute:input="password"
