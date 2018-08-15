@@ -18,3 +18,5 @@ expectations:
   inspection: DeclaresAttribute:type="password"
 - binding: input
   inspection: DeclaresAttribute:required
+- binding: label
+  inspection: DeclaresAttribute:for
