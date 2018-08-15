@@ -1,4 +1,0 @@
----
-expectations:
-- binding: css:p
-  inspection: 'DeclaresStyle:color: green'
