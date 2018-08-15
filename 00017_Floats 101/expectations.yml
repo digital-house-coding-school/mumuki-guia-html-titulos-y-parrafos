@@ -2,3 +2,5 @@
 expectations:
 - binding: css:article
   inspection: DeclaresStyle:float:left
+- binding: css:section
+  inspection: DeclaresStyle:overflow:hidden
