@@ -2,7 +2,7 @@
 expectations:
 - binding: body
   inspection: DeclaresTag:form
-- binding: unico
+- binding: css:form#unico
   inspection: DeclaresAttribute:method="POST"
-- binding: unico
+- binding: css:form#unico
   inspection: DeclaresAttribute:action="resultado.html"
