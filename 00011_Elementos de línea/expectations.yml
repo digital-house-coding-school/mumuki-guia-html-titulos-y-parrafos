@@ -16,3 +16,15 @@ expectations:
   inspection: Not:DeclaresTag:section
 - binding: body
   inspection: Not:DeclaresTag:article
+- binding: body
+  inspection: Not:DeclaresTag:h1
+- binding: body
+  inspection: Not:DeclaresTag:h2
+- binding: body
+  inspection: Not:DeclaresTag:h3
+- binding: body
+  inspection: Not:DeclaresTag:h4
+- binding: body
+  inspection: Not:DeclaresTag:h5
+- binding: body
+  inspection: Not:DeclaresTag:h6
