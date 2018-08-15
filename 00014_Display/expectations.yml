@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: css:a
+  inspection: DeclaresStyle:display:block
+- binding: css:a
+  inspection: DeclaresStyle:width:100px
+- binding: css:a
+  inspection: DeclaresStyle:height:50px
