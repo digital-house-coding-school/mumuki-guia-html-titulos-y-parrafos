@@ -6,3 +6,13 @@ expectations:
   inspection: DeclaresTag:button
 - binding: button
   inspection: DeclaresAttribute:type="submit"
+- binding: button
+  inspection: DeclaresAttribute:type="reset"
+- binding: form
+  inspection: DeclaresTag:label
+- binding: label
+  inspection: DeclaresAttribute:for
+- binding: textarea
+  inspection: DeclaresAttribute:id
+- binding: textarea
+  inspection: DeclaresAttribute:name
