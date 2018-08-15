@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: css:article
+  inspection: DeclaresStyle:float:left
