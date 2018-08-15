@@ -1,0 +1,12 @@
+---
+expectations:
+- binding: css:div
+  inspection: 'DeclaresStyle:width: 100px'
+- binding: css:div
+  inspection: 'DeclaresStyle:border: 1px solid red'
+- binding: css:div
+  inspection: 'DeclaresStyle:padding: 5px'
+- binding: css:div
+  inspection: 'DeclaresStyle:margin: 10px'
+- binding: css:div
+  inspection: 'DeclaresStyle:box-sizing: border-box'
