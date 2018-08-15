@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: css:div#primero
+  inspection: DeclaresStyle:display:inline
+- binding: css:div#segundo
+  inspection: DeclaresStyle:display:none
+- binding: css:span
+  inspection: DeclaresStyle:display:block
