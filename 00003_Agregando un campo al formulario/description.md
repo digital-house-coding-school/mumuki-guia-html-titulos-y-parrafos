@@ -8,3 +8,4 @@
 
 > 2. Una etiqueta `input` con atributo `type` y valor **text** para que el usuario pueda ingresar su nombre
 
+Recordá que para que la etiqueta label esté indicando un input determinado debe tener el atributo `for` con el `id` del input correspondiente como valor.
