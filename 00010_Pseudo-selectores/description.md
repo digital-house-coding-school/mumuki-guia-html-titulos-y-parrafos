@@ -12,6 +12,6 @@ Vamos a darle estilo al siguiente formulario:
 </form>
 ```
 
-> Cuando el mouse pase por encima de la etiqueta `<p>` queremos que cambie el color del texto cambie a verde.
+> Cuando el mouse pase por encima de la etiqueta `<p>` queremos que cambie el color del texto cambie a verde. ¿Qué regla de css escribirían?
 
-> Cuando se pone foco en el `<input>` queremos que su color de fondo cambie a amarillo.
+> Cuando se pone foco en el `<input>` queremos que su color de fondo cambie a amarillo. ¿Qué regla de css escribirían?
