@@ -13,6 +13,8 @@ expectations:
 - binding: input
   inspection: DeclaresAttribute:type="text"
 - binding: label
-  inspection: DeclaresAttribute:for
+  inspection: DeclaresAttribute:for="nombre"
 - binding: input
-  inspection: DeclaresAttribute:id
+  inspection: DeclaresAttribute:id="nombre"
+- binding: input
+  inspection: DeclaresAttribute:name
