@@ -1,4 +1,5 @@
 La página web dada es básica pero interesante.
+De hecho este va a ser un ejercicio **largo**
 
 Tiene:
 
