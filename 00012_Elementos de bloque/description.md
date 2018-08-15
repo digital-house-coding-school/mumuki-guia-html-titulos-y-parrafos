@@ -1,12 +1,16 @@
-Creá etiquetas que se comportan por naturaleza como **elemento de bloque**.
-
-Pueden ser:
+Por otro lado, algunas etiquetas de bloque conocemos son:
 
 > `<div>`  
 > `<p>`  
 > `<h1>` `<h2>` `<h3>` `<h4>` `<h5>` `<h6>`  
 > `<ul>` `<ol>` `<li>`   
 > `<form>`  
-> `<header>`  `<footer>`  
+> `<header>`  `<footer>`  `<section>` `<article>`
 
-Sentite libre de crear cualquier elemento de bloque que desees y notá que ocupa todo el ancho.
+Es hora entonces de modificar el parrafo que aparece en el código.
+
+**¿Cuál es tu tarea?**
+
+**Dentro del parrafo** recubrí una palabra con la etiqueta `<div>`
+
+En el resultado, deberías ver que el comportamiento del texto se modifica completamente generando un salto de línea previo y posterior a la etiqueta `<div>`. Esto sucede ya que las etiquetas de bloque ocupan el 100% del ancho de su etiqueta contenedora.

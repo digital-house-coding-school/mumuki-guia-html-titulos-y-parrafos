@@ -1,12 +1,4 @@
 ---
 expectations:
-- binding: body
-  inspection: Not:DeclaresTag:img
-- binding: body
-  inspection: Not:DeclaresTag:span
-- binding: body
-  inspection: Not:DeclaresTag:button
-- binding: body
-  inspection: Not:DeclaresTag:a
-- binding: body
-  inspection: Not:DeclaresTag:input
+- binding: p
+  inspection: DeclaresTag:div
