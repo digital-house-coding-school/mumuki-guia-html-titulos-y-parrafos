@@ -13,7 +13,7 @@ Vamos a agregarle propiedades de css que entienden solamente los elementos en bl
 
 > Primero, démosle a los `<div>` un ancho fijo de 100px.
 
-> Segundo, démosle un `border` sólido de 1 px de color rojo.
+> Segundo, sumemos un `border` sólido de 1 px de color rojo.
 
 > Tercero, agregarle `padding` 5px.
 
