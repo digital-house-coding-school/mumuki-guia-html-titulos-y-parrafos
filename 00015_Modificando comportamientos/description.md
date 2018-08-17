@@ -1,4 +1,4 @@
-En este ejercicio te invitamos a que primero ejecutes tu código sin escribir nada. 
+En este ejercicio te invitamos a que primero ejecutes tu código sin escribir nada.
 
 Deberías ver una página con 3 `<div>`
 
