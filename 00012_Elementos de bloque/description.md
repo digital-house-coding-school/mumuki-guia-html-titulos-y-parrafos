@@ -11,6 +11,6 @@ Es hora entonces de modificar el parrafo que aparece en el código.
 
 **¿Cuál es tu tarea?**
 
-**Dentro del parrafo** recubrí una palabra con la etiqueta `<div>`
+**Dentro del `<span>`** recubrí una palabra con la etiqueta `<div>`
 
 En el resultado, deberías ver que el comportamiento del texto se modifica completamente generando un salto de línea previo y posterior a la etiqueta `<div>`. Esto sucede ya que las etiquetas de bloque ocupan el 100% del ancho de su etiqueta contenedora.

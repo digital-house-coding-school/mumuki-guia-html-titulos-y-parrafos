@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: p
+- binding: span
   inspection: DeclaresTag:div
