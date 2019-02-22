@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: css:article
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:article
   inspection: DeclaresStyle:float:left
-- binding: css:section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
   inspection: DeclaresStyle:overflow:hidden

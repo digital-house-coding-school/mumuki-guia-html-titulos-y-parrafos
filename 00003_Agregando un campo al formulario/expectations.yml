@@ -1,20 +1,29 @@
 ---
 expectations:
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:form
-- binding: form
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
   inspection: DeclaresAttribute:action="resultado.html"
-- binding: form
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
   inspection: DeclaresAttribute:method="POST"
-- binding: form
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
   inspection: DeclaresTag:label
-- binding: form
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
   inspection: DeclaresTag:input
-- binding: input
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
   inspection: DeclaresAttribute:type="text"
-- binding: label
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: label
   inspection: DeclaresAttribute:for="nombre"
-- binding: input
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
   inspection: DeclaresAttribute:id="nombre"
-- binding: input
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
   inspection: DeclaresAttribute:name

@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: p
   inspection: DeclaresTag:span
-- binding: p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: p
   inspection: DeclaresTag:a
-- binding: a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: a
   inspection: DeclaresAttribute:href

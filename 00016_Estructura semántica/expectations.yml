@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:header
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:section
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:footer
-- binding: section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: section
   inspection: DeclaresTag:article

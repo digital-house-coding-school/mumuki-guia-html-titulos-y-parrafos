@@ -1,12 +1,17 @@
 ---
 expectations:
-- binding: form
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
   inspection: DeclaresTag:input
-- binding: input
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
   inspection: DeclaresAttribute:type="radio"
-- binding: input
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
   inspection: DeclaresAttribute:name="mascota"
-- binding: input
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
   inspection: DeclaresAttribute:value
-- binding: form
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
   inspection: DeclaresTag:label

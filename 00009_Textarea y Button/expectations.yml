@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: form
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
   inspection: DeclaresTag:textarea
-- binding: form
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
   inspection: DeclaresTag:button
-- binding: button
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: button
   inspection: DeclaresAttribute:type="submit"

@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: css:div#primero
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:div#primero
   inspection: DeclaresStyle:display:inline
-- binding: css:div#segundo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:div#segundo
   inspection: DeclaresStyle:display:none
-- binding: css:span
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:span
   inspection: DeclaresStyle:display:block

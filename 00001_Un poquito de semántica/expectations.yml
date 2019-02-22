@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: p
   inspection: DeclaresTag:mark
-- binding: p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: p
   inspection: DeclaresTag:strong
-- binding: p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: p
   inspection: DeclaresTag:em

@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:form
-- binding: input
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
   inspection: DeclaresAttribute:name
-- binding: input
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
   inspection: DeclaresAttribute:type="submit"
-- binding: input
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
   inspection: DeclaresAttribute:value="Enviar"

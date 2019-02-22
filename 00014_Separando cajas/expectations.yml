@@ -1,44 +1,65 @@
 ---
 expectations:
-- binding: css:header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
   inspection: DeclaresStyle:background-color:black
-- binding: css:header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
   inspection: DeclaresStyle:color:white
-- binding: css:header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
   inspection: DeclaresStyle:font-size:28px
-- binding: css:header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
   inspection: DeclaresStyle:padding-top:5px
-- binding: css:header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
   inspection: DeclaresStyle:padding-bottom:5px
-- binding: css:header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
   inspection: DeclaresStyle:margin-bottom:15px
-- binding: css:header
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
   inspection: DeclaresStyle:box-sizing:border-box
-- binding: css:section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
   inspection: DeclaresStyle:width:50%
-- binding: css:section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
   inspection: DeclaresStyle:margin-left:25%
-- binding: css:section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
   inspection: DeclaresStyle:background-color:gainsboro
-- binding: css:section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
   inspection: DeclaresStyle:padding-top:5px
-- binding: css:section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
   inspection: DeclaresStyle:padding-bottom:5px
-- binding: css:section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
   inspection: DeclaresStyle:padding-left:10px
-- binding: css:section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
   inspection: DeclaresStyle:border-radius:5px
-- binding: css:section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
   inspection: DeclaresStyle:box-sizing:border-box
-- binding: css:footer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:footer
   inspection: DeclaresStyle:background-color:black
-- binding: css:footer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:footer
   inspection: DeclaresStyle:color:white
-- binding: css:footer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:footer
   inspection: DeclaresStyle:padding-top:5px
-- binding: css:footer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:footer
   inspection: DeclaresStyle:padding-bottom:5px
-- binding: css:footer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:footer
   inspection: DeclaresStyle:height:40px
-- binding: css:footer
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:footer
   inspection: DeclaresStyle:box-sizing:border-box

@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:form
-- binding: form
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
   inspection: DeclaresAttribute:method="POST"
-- binding: form
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
   inspection: DeclaresAttribute:action="resultado.html"
