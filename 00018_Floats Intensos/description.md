@@ -1,6 +1,6 @@
-En este caso la sección principal tiene 4 articulos.
+En este caso la sección principal tiene 4 artículos.
 
-No solo te vamos a pedir que floten, sino que además es importante que les puedas dar el ancho correcto y las separaciones para que se vean bonitos.
+No solo te vamos a pedir que floten, sino que además es importante que les puedas dar el ancho correcto y las separaciones necesarias para que se vean bonitos.
 
 Para esto es tu tarea:
 
