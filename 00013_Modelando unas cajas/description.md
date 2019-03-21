@@ -1,4 +1,4 @@
-Dado los siguientes `<div>`:
+Dado los siguientes `<div>`, vamos a gregarle propiedades de css que entienden solamente los elementos en bloque:
 
 ``` html
 <div>
@@ -9,14 +9,12 @@ Dado los siguientes `<div>`:
 </div>
 ```
 
-Vamos a agregarle propiedades de css que entienden solamente los elementos en bloque.
+> Les des un ancho fijo de 100px.
 
-> Primero, démosle a los `<div>` un ancho fijo de 100px.
+> Les des un `border` sólido de 1 px de color rojo.
 
-> Segundo, sumemos un `border` sólido de 1 px de color rojo.
+> Les agregues un `padding` de 5px.
 
-> Tercero, agregarle `padding` 5px.
+> Les agregues un `margin` de 10px.
 
-> Cuarto, agregarle un `margin` de 10px.
-
-> Por último, agreguémosle la propiedad `box-sizing: border-box` para que el ancho final del `<div>` sea 100px incluyendo el borde.
+> Le agregues la propiedad `box-sizing: border-box` para que el ancho final del `<div>` sea 100px incluyendo el borde.
