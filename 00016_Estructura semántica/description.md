@@ -8,4 +8,4 @@ Para eso te pedimos escribir y probar las etiquetas
 
 Además, dentro de `<section>` escribir dos etiquetas `<article>`
 
-¡No olvides rellenarlas de contenido para probar como se ve!
+¡No olvides rellenarlas de contenido para probar cómo se ve!
