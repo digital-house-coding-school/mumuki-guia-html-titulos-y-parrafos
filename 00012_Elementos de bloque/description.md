@@ -1,4 +1,4 @@
-Por otro lado, algunas etiquetas de bloque conocemos son:
+Por otro lado, algunas etiquetas de bloque que conocemos son:
 
 > `<div>`  
 > `<p>`  
@@ -7,7 +7,7 @@ Por otro lado, algunas etiquetas de bloque conocemos son:
 > `<form>`  
 > `<header>`  `<footer>`  `<section>` `<article>`
 
-Es hora entonces de modificar el parrafo que aparece en el código.
+Es hora entonces de modificar el párrafo que aparece en el código.
 
 **¿Cuál es tu tarea?**
 
