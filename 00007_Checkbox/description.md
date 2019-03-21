@@ -6,7 +6,7 @@ Te pedimos que dentro del formulario:
 
 > 1. Crees un `label` que pregunte ¿Cuáles son tus hobbies?
 
-> 2. Crees 3 etiquetas `input` con `type="chekbox"` con las siguientes opciones: Pescar, Correr y Yoga
+> 2. Crees 3 etiquetas `input` con `type="checkbox"` con las siguientes opciones: Pescar, Correr y Yoga
 
 > 3. Agregar el atributo `name="hobby"` a todos los input para que asocie que estamos hablando del mismo campo.
 
