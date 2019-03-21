@@ -1,4 +1,4 @@
-Vamos a crear un desplegable para que el usuario pueda seleccionar un mes (Enero, Febrero, Marzo, ..., Diciembre)
+Vamos a crear un desplegable para que el usuario pueda seleccionar un mes (Enero, Febrero, Marzo, etc)
 
 > Para esto te pedimos que dentro del formulario crees:
 
