@@ -1,6 +1,6 @@
 Queremos saber si el usuario tiene mascota.
 
-Para esto necesitamos un formulario con un radio button con 2 opciones para el usuario: Si o No.
+Para esto necesitamos un formulario con un radio button con 2 opciones para el usuario: Si y No.
 
 Te pedimos que dentro del formulario:
 
