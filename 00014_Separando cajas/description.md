@@ -1,20 +1,20 @@
-La página web dada es básica pero interesante.
+Tenemos creada una web que es básica pero interesante.
 De hecho este va a ser un ejercicio **largo**
 
-Tiene:
+El sitio tiene:
 
 1. Un `<header>`
 2. Luego una `<section>`
 3. Y finalmente un `<footer>`
 
-Es tu trabajo estilizar el sitio...
+Tu trabajo va a ser estilizar el sitio...
 
 Para el `<header>`:
 
 > 1. Color de fondo negro
 > 2. Tipografía blanca
 > 3. Tamaño de fuente en 28px
-> 4. Un borde "solid" rojo en su limite inferior de 1px
+> 4. Un borde "solid" rojo en su límite inferior de 1px
 > 5. Padding arriba y abajo de 5px
 > 6. Padding a la izquierda de 10px
 > 7. Un margen abajo de 15px para separar el header de la sección principal
