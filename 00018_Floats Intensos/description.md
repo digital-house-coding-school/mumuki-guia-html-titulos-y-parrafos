@@ -5,8 +5,8 @@ No solo te vamos a pedir que floten, sino que además es importante que les pued
 Para esto es tu tarea:
 
 > 1. Agregar las reglas de flotación que ya deberías conocer del ejercicio anterior
-> 2. Vamos a darle a cada una de los articulos un ancho de 20% (en total suma 80%!)
-> 3. Vamos a darle a cada artículo margen izquierdo de 2.5% y margen derecho de 2.5% **¡Ojo que se usa el punto y no la coma!**
+> 2. Darle a cada una de los articulos un ancho de 20% (en total suma 80%!)
+> 3. Darle a cada artículo margen izquierdo de 2.5% y margen derecho de 2.5% **¡Ojo que se usa el punto y no la coma!**
 
 Ahora sí, 4 artículos con 20% de ancho nos da 80%. Pero si además cada uno tiene 5% de margen (2,5% de cada lado) llegamos al total acumulado del 100%!!!!
 
