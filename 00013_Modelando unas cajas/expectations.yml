@@ -2,9 +2,6 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:div
-  inspection: DeclaresStyle:margin:10px
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: css:div
   inspection: DeclaresStyle:box-sizing:border-box
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:div
@@ -12,3 +9,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:div
   inspection: DeclaresStyle:padding:5px
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:div
+  inspection: 'DeclaresStyle:margin: 10px'
